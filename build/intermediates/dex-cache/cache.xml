@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_5ea1cf001015232cd23e86c68ebbfd2fe304e99b.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_015d089862ef6e5a186619848fdc8ec5df973cf1.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_c844a524c4c72e7a53301840ebbbcacc28fd4b8c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_e13713de00c19e167bb9226a54ed9618abd18bfe.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_225d2608dd4ecc7e25c6c01d95dfbcfff242214a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_5c7fc12b3635daad5a2df836dc437d95bd75b4d6.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_003403c63bb6c5770e95ca4f155e0c77b3cb7e1b.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_e66282bb3eed1fd76749c871f96eef35257d0a2a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_f1c3ddea4874f0b04c6c2cd87b19bdd26e204542.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SearchviewScroll-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\android_github\SearchviewScroll-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_45551d86b9855fc858cff3bacd56772a881d833e.jar" />
+    </item>
+
+</items>
